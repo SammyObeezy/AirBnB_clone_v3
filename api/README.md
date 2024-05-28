@@ -1,1 +1,1 @@
-This is an api directory
+0x05. AirBnB clone - RESTful API
